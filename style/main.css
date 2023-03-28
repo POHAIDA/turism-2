@@ -69,10 +69,6 @@ body {
 
 }
 
-.nav-list__item:hover{
-    opacity:1;
-}
-
 .nav-list__link {
     opacity: 0.7;
 }
