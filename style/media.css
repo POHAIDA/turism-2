@@ -105,12 +105,12 @@
         flex-direction: column;
     }
     .form__input-wrapper{
-        width: 90%;
+        width: 95%;
     }
     .button--search{
-        width: 90%;
+        width: 95%;
         margin-top: 10px;
-       
+        margin-bottom:15px;
     }
     .title-1 {
         font-size: 23px;
