@@ -140,6 +140,19 @@
 }
 
 @media(max-width: 640px){
+    .form{
+        margin: 20px;
+        max-width: 90%;
+        height: 100%;
+        flex-direction: column;
+    }
+    .form__input-wrapper{
+        max-width: 90%;
+    }
+    .button--search{
+        max-width: 90%;
+        margin-top: 10px;
+    }
     .section__cards--popular {
         grid-template-columns: repeat(2, 1fr);
     }
