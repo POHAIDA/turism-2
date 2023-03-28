@@ -100,7 +100,6 @@
 
 @media(max-width: 1040px){
     .form{
-        margin: 5px;
         width: auto;
         height: auto;
         flex-direction: column;
@@ -111,6 +110,7 @@
     .button--search{
         width: 90%;
         margin-top: 10px;
+        margin-bottom: 10px;
     }
     .title-1 {
         font-size: 23px;
