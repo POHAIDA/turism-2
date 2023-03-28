@@ -100,7 +100,7 @@
 
 @media(max-width: 1040px){
     .form{
-        margin: 10px;
+        margin: 5px;
         width: auto;
         height: auto;
         flex-direction: column;
@@ -140,19 +140,7 @@
 }
 
 @media(max-width: 640px){
-    .form{
-        margin: 10px;
-        max-width: auto;
-        height: 100%;
-        flex-direction: column;
-    }
-    .form__input-wrapper{
-        max-width: 90%;
-    }
-    .button--search{
-        max-width: 90%;
-        margin-top: 10px;
-    }
+    
     .section__cards--popular {
         grid-template-columns: repeat(2, 1fr);
     }
