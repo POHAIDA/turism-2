@@ -100,7 +100,6 @@
 
 @media(max-width: 1040px){
     .form{
-        margin:10px;
         max-width: auto;
         height: auto;
         flex-direction: column;
@@ -111,7 +110,7 @@
     .button--search{
         max-width: 90%;
         margin-top: 10px;
-        margin-bottom: 15px;
+       
     }
     .title-1 {
         font-size: 23px;
@@ -141,7 +140,20 @@
 }
 
 @media(max-width: 640px){
-   
+    .form{
+        margin: 10px;
+        max-width: auto;
+        height: 100%;
+        flex-direction: column;
+    }
+    .form__input-wrapper{
+        max-width: 90%;
+    }
+    .button--search{
+        max-width: 90%;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
     .section__cards--popular {
         grid-template-columns: repeat(2, 1fr);
     }
