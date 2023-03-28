@@ -105,10 +105,10 @@
         flex-direction: column;
     }
     .form__input-wrapper{
-        width: 95%;
+        width: 90%;
     }
     .button--search{
-        width: 95%;
+        width: 90%;
         margin-top: 10px;
         margin-bottom:15px;
     }
