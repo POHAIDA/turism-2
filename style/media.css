@@ -100,7 +100,7 @@
 
 @media(max-width: 1040px){
     .form{
-        max-width: auto;
+        width: auto;
         height: auto;
         flex-direction: column;
     }
@@ -142,7 +142,7 @@
 @media(max-width: 640px){
     .form{
         margin: 10px;
-        max-width: auto;
+        max-width: 97%;
         height: 100%;
         flex-direction: column;
     }
