@@ -332,7 +332,7 @@ gap: 32px;
     padding-left: 20px;
     background-repeat: no-repeat;
     background-position: 0px 0px;
-    background-image: url(/img/icons/map-pin-line.svg);
+    background-image: url(./../img/icons/map-pin-line.svg);
 }
 
 .card__location {}
